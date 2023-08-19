@@ -1,4 +1,4 @@
-# Team 3161's offseason swerve project	
+# Team 7725's offseason swerve project	
 
 The project involves building a swerve robot for the First Robotics Competition (FRC) season. This is the team's first time working with swerve technology and we have used code from team 3512 as a starting point. We have made updates to this code base in order to customize the robot for their needs. The goal of the project is to have a fully functional swerve robot ready before the new(2023) FRC season gets announced.	
 
